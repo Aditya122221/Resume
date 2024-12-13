@@ -1,0 +1,145 @@
+body {
+    padding-top: 35px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin: 0;
+    font-family: 'Calibri';
+}
+
+.nameAdd {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-around;
+}
+
+.project {
+    margin-top: 25px;
+}
+
+.p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+hr {
+    margin-top: 1px;
+    margin-left: 10px;
+    height: 1px;
+    background-color: black;
+}
+
+.projectwithdes {
+    margin-left: 25px;
+}
+
+.titledate {
+    display: flex;
+    justify-content: space-between;
+}
+
+.titlesub {
+    display: flex;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.dandi {
+    margin-left: 5px;
+}
+
+.subtitle {
+    margin-left: 5px;
+    font-style: italic;
+}
+
+.date {
+    font-weight: bold;
+}
+
+.c {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.certificatwithdes {
+    margin-left: 25px;
+}
+
+.webname {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.t {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.skillwithdesc{
+    display: flex;
+    flex-direction: column;
+}
+
+.skill{
+    display: flex;
+}
+
+.skilltitle{
+    font-weight: bold;
+}
+
+.dess{
+    margin-left: 5px;
+}
+
+.e{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.a{
+    display: flex;
+    flex-direction: column;
+}
+
+.b{
+    display: flex;
+    justify-content: space-between;
+}
+
+.d{
+    font-weight: bold;
+}
+
+.x{
+    font-weight: bold;
+}
+
+.z{
+    display: flex;
+    justify-content: space-between;
+}
+
+.f{
+    font-size: 17px;
+    font-style: italic;
+}
+
+.g{
+    font-size: 17px;
+    font-style: italic;
+}

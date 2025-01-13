@@ -180,3 +180,24 @@ a{
     flex-direction: column;
     gap: 15px;
 }
+
+.sTitle{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Sdesc{
+    display: flex;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.STech{
+    display: flex;
+    margin-top: 15px;
+}
+
+.thead{
+    font-weight: bold;
+    margin-right: 5px;
+}
